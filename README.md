@@ -13,3 +13,6 @@ Este es un bot de Telegram simple que repite ("echo") los mensajes que recibe.
    ```bash
    git clone https://github.com/tu_usuario/EchoBot.git
    cd EchoBot
+
+2. Nombre del bot: @CanitoNbot
+3. Ejecutar el bot con el comando /start
